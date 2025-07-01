@@ -1888,7 +1888,7 @@ Content-Length: 100
   <li>set <code>z</code> to be the value of x plus 10</li>
   <li>use <code>document.write()</code> to make your result visible!</li>
 </ul>
-`,`<img src = "https://i.imgur.com/vHRhErS.png" width = "300">
+`,`<img src = "https://i.imgur.com/vHRhErS.png" width = "200">
 <img src = "https://i.imgur.com/XSIq8zi.png" width = "300">`,`<h1>Let's talk more about variables!</h1>
 <p><em>Mostly, just because there's more objectives from the pdf to cover</em></p>
 
