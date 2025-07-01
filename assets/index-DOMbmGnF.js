@@ -1819,6 +1819,7 @@ Content-Length: 100
 </code></pre>
 
 <h2>then from there making a button is easy! Try it yourself:</h2>
+<img src = "https://i.imgur.com/8Ixo4er.gif" width = "300">
 <ul>
   <li>I showed you earlier how to make a button according to your school</li>
   <li>let's make one that does <code>fartCheck()</code> on click!</li>
@@ -1887,7 +1888,7 @@ Content-Length: 100
   <li>set <code>z</code> to be the value of x plus 10</li>
   <li>use <code>document.write()</code> to make your result visible!</li>
 </ul>
-`,`<img src = "https://i.imgur.com/vHRhErS.png" width = "3000">
+`,`<img src = "https://i.imgur.com/vHRhErS.png" width = "300">
 <img src = "https://i.imgur.com/XSIq8zi.png" width = "300">`,`<h1>Let's talk more about variables!</h1>
 <p><em>Mostly, just because there's more objectives from the pdf to cover</em></p>
 
@@ -2211,7 +2212,7 @@ Let's say it's like asking:<br>
 <p>Time to talk about the <code>not</code> operator!</p>
 
 <h2><code>not</code> is expressed with a <code>!</code></h2>
-
+n
 <p>This is another one of those situations that sure it inherently makes sense to someone with experience, who's super cool like myself.</p>
 
 <p>Though as far as making sure you can remember I'd say-...</p>
@@ -2220,7 +2221,7 @@ Let's say it's like asking:<br>
   <li>One way to look at it would be like a reaction from someone who is <strong>SHOCKED AT HOW THAT IS <code>NOT</code> THE CASE</strong></li>
 </ul>
 
-c
+<img src = "https://i.imgur.com/Yld1DFe.png" width = "300">
 
 <p>All it does is reverse things, or moreso make them <code>not</code> themself.</p>
 
