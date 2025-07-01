@@ -1905,6 +1905,8 @@ Content-Length: 100
 <p>...will give you...</p>
 
 <pre><code>catdog
+
+<img src = "https://m.media-amazon.com/images/I/71WZ2kqPG3L.jpg" width = 300>
 </code></pre>
 
 <h2>You can add strings together!</h2>
