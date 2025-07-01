@@ -2920,7 +2920,7 @@ p {
 
 
 
-<h3>🧠 A.I. Tutor Additional Review – Lesson 5: CSS-Defaults sichtbar machen</h3>
+<h3>🧠 A.I. Tutor Additional Review</h3>
 
 <p>This lesson introduces a powerful way to understand how HTML elements behave in the browser — by making their invisible boundaries <strong>visually visible</strong> using borders.</p>
 
